@@ -8,9 +8,9 @@ sub-folder does not exist, it is created then the files moved into it.
 ## Usage
 From a terminal, navigate into the project directory.
 ```
-$ cd downloads-folder-automation
+$ cd Download-Automation
 ```
 To run the script:
 ```
-$ python downloads_folder_sorter.py
+$ python download_folder_sorter.py
 ```
